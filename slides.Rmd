@@ -47,11 +47,27 @@ class: middle, center, inverse
 
 ---
 
+- Pourquoi la bio-informatique?
 - Qu'est-ce que la bioinformatique?
 - Qui fait de la bio-informatique?
 - Où enseigne-t-on la bio-informatique?
 - Quelques exemples d'algorithmes utilisés en bio-informatique.
-- ... et quelques application.
+- ... et quelques illustrations.
+
+
+---
+class: middle, center, inverse
+
+# Pourquoi la bio-informatique?
+
+
+---
+
+- Central dogma and information flow
+- transmission de l'information moĺéculaire
+- nous avons les outils technologiques pour mesurer les molécules à
+  chaque niveau biologique
+
 
 ---
 class: middle, center, inverse
@@ -81,6 +97,19 @@ class: middle, center, inverse
 - Faculté de pharmacie et sciences biomédicales (SBIM)
 - Ecole Polytechnique de Louvain (EPL)
 - Ecole de statistique (statistiques et sciences des données)
+
+
+---
+class: middle, center, inverse
+
+# Quelques exemples d'algorithmes utilisés en bio-informatique.
+
+## (le plat de consistence)
+
+---
+class: middle, center, inverse
+
+# Illustrations
 
 ---
 class: middle, center, inverse

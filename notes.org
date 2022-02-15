@@ -1,0 +1,75 @@
+Quand on me demande ce que je fais et que je réponds de la
+bio-informatique, je précise toujours (et c'est devenu un réflexe) que
+c'est de l'informatique appliquée à de la biologie. Et je dois vous
+avouer que ce n'est pas avec grande conviction, car je ne m'attends
+pas que cette définition soit des plus instructive... mais elle a le
+mérite d'être courte. Si vraiment la personne qui la pose est
+intéressée, il y a bien évidemment matière à élaborer.
+
+Pour vous, par contre, je me suis coupé en quatres car je suis parti
+du principe que si vous êtes là, ce que vous voulez, en effet, savoir
+...TITLE ...
+
+
+Pour répondre à cette question, j'ai décidé de l'aborder sous
+différents angles:
+
+- Qu'est-ce que la bioinformatique?
+- Qui fait de la bio-informatique?
+- Où enseigne-t-on la bio-informatique?
+- Quelques exemples d'algorithmes utilisés en bio-informatique.
+- ... et quelques illustrations.
+
+
+What is bioinformatics? Who does bioinformatics?
+
+  Who
+  - Prof en bioinfo à l'UCLouvain et directeur du laboratoire de
+    Biologie Computationelle et Bio-informatiqe à l'institut de Duve
+    depuis sept 2018
+  - 2010 - 2018: chercher en bioinformatique à l'Univeristé de
+    Cambridge, UK
+  - 2006 - 2009: Bio-informaticien et gestionnaire de projet dans le
+    privé.
+  - 2000 - 2006: Thèse de doctorat au département de biologie et
+    médecine moléculaire de l'ULB.
+  - 1996 - 2000: Licence en Biologie à l'ULB
+
+  In the lab:
+  - LG: bio, these évolution, licence INFO,
+  - AL: bioingénieur, these DDUV, bio-info
+  - MM: bioingénieur, stat, these STAT, bio-info
+  - CV: SBIM (UCLouvain), Bioinfo (KULeuve), these DDUV
+  - PH: ingénieur (Mons), 20 ans en finances quantitatives, MS Stat
+    (UCLouvain), thèse DDUV
+
+  Anectodes
+
+  - bio + info or info + bio
+  - licence info à horaire décalé en info
+
+  Where is bioinformatics taught?
+
+  - SBIM
+  - EPL
+  - Stat/data science
+
+  Qu'est-ce que la bio-informatique
+
+  Central dogma
+
+  - transmission de l'information moĺéculaire
+  - nous avons les outils pour mesurer les molécules à chaque niveau moléculaire
+
+  Illustration: les légos
+
+  Pourquoi est-ce si important?
+  - réassembler les données et *comprendre* certaines facettes de la
+    biologie sous-jacente
+  - l'utilisation d'algorithmes dans les prises de décisions, par
+    exemple dans la détection de tumeurs (voir aussi 'Les algorithmes
+    font-ils la loi?)
+
+  Schématiquement et quelques notions d'apprentissage automatique
+
+  Applications
