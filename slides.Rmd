@@ -1,0 +1,88 @@
+---
+title: "TITLE"
+subtitle: "subtitle"
+author: "Laurent Gatto"
+date: "2022/02/17"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+```{r theme, echo=FALSE}
+xaringanthemer::style_mono_light(base_color = "#23395b")
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_webcam()     ## use w to turn on webcam
+xaringanExtra::use_tile_view()  ## use o to get an overview
+xaringanExtra::use_fit_screen() ## use Alt-F to fit to screen
+xaringanExtra::use_extra_styles(
+  hover_code_line = TRUE
+)
+```
+
+
+class: middle
+name: cc-by
+
+### Get the slides at [http://bit.ly/202203uda](http://bit.ly/202203uda)
+
+These slides are available under a **creative common
+[CC-BY license](http://creativecommons.org/licenses/by/4.0/)**. You are
+free to share (copy and redistribute the material in any medium or
+format) and adapt (remix, transform, and build upon the material) for
+any purpose, even commercially
+<img height="20px" alt="CC-BY" src="https://raw.githubusercontent.com/UCLouvain-CBIO/scp-teaching/main/img/cc1.jpg" />.
+
+
+---
+class: middle, center, inverse
+
+# Qu'est-ce que la bioinformatique?
+
+---
+
+- Qu'est-ce que la bioinformatique?
+- Qui fait de la bio-informatique?
+- Où enseigne-t-on la bio-informatique?
+- Quelques exemples d'algorithmes utilisés en bio-informatique.
+- ... et quelques application.
+
+---
+class: middle, center, inverse
+
+# Qui fait de la bio-informatique?
+
+## (dans l'unité *Computational Biology and Bioinformatics* à l'institut de Duve)
+
+---
+
+Add a picture of the group and names
+
+---
+class: middle, center, inverse
+
+## bio + info ou info + bio ?
+
+---
+class: middle, center, inverse
+
+# Où enseigne-t-on la bio-informatique?
+
+## (à l'UCLouvain)
+
+---
+
+- Faculté de pharmacie et sciences biomédicales (SBIM)
+- Ecole Polytechnique de Louvain (EPL)
+- Ecole de statistique (statistiques et sciences des données)
+
+---
+class: middle, center, inverse
+
+# Questions
