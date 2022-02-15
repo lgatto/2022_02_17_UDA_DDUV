@@ -1,3 +1,7 @@
+all:
+	make slides.html
+	make web
+
 %.html: %.Rmd
 	Rscript -e "rmarkdown::render('$^', output_format = 'xaringan::moon_reader')"
 

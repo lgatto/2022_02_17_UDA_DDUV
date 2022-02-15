@@ -1,8 +1,8 @@
 ---
 title: "Faire du sens avec un nombre incroyable de données"
 subtitle: ""
-author: "Laurent Gatto"
-date: "2022/02/17"
+author: "Prof. Laurent Gatto"
+date: "17 février 2022"
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
