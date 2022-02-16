@@ -318,6 +318,83 @@ class:middle, center, inverse
 ## Algo 2 - clustering: qui se ressemble, s'assemble
 
 ---
+class: middle
+
+.pull-left[
+
+![data2](figs/data2.png)
+
+]
+
+.pull-right[
+
+## Quels sont les échantillons qui se ressemblent le plus?
+
+]
+
+---
+class: middle
+
+.pull-left[
+
+![data2](figs/data2.png)
+
+]
+
+.pull-right[
+
+## Quels sont les échantillons qui se ressemblent le plus?
+
+
+|      |     noir|     jaune|     mauve|      bleu|
+|:-----|--------:|---------:|---------:|---------:|
+|noir  |   0.0000| 124.16924| 125.71794| 123.53542|
+|jaune | 124.1692|   0.00000|  35.08561|  32.96968|
+|mauve | 125.7179|  35.08561|   0.00000|   4.00000|
+|bleu  | 123.5354|  32.96968|   4.00000|   0.00000|
+
+]
+
+---
+class: middle
+
+.pull-left[
+
+![hc](figs/hc.png)
+
+
+]
+
+.pull-right[
+
+## Quels sont les échantillons qui se ressemblent le plus?
+
+|      |     noir|     jaune|     mauve|      bleu|
+|:-----|--------:|---------:|---------:|---------:|
+|noir  |   0.0000| 124.16924| 125.71794| 123.53542|
+|jaune | 124.1692|   0.00000|  35.08561|  32.96968|
+|mauve | 125.7179|  35.08561|   0.00000|   4.00000|
+|bleu  | 123.5354|  32.96968|   4.00000|   0.00000|
+
+
+]
+
+
+---
+class: middle
+
+.pull-left[
+
+![hc](figs/hc.png)
+
+]
+
+.pull-right[
+
+![pca](figs/pca2.png)
+
+]
+
 
 ---
 class:middle, center, inverse
