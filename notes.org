@@ -1,27 +1,26 @@
-Quand on me demande ce que je fais et que je réponds de la
-bio-informatique, je précise toujours (et c'est devenu un réflexe) que
-c'est de l'informatique appliquée à de la biologie, y compris la
-médecine. Et je dois vous avouer que ce n'est pas avec grande
-conviction, car je ne m'attends pas que cette définition soit des plus
-instructive... mais elle a le mérite d'être courte. Si vraiment la
-personne qui la pose est intéressée, il y a bien évidemment matière à
-élaborer.
+* Intro
 
-Pour vous, par contre, je me suis coupé en quatres car je suis parti
-du principe que si vous êtes là, ce que vous voulez, en effet, savoir
-*faire du sens avec un nombre incroyable de données* grâce à la
-bio-informatique.
+  Quand on me demande ce que je fais et que je réponds de la
+  bio-informatique, je précise toujours (et c'est devenu un réflexe)
+  que c'est de l'informatique appliquée à de la biologie, y compris la
+  médecine. Et je dois vous avouer que ce n'est pas avec grande
+  conviction, car je ne m'attends pas que cette définition soit des
+  plus instructive... mais elle a le mérite d'être courte. Si vraiment
+  la personne qui la pose est intéressée, il y a bien évidemment
+  matière à élaborer.
+
+  Pour vous, par contre, je me suis coupé en quatres car je suis parti
+  du principe que si vous êtes là, ce que vous voulez, en effet,
+  savoir *faire du sens avec un nombre incroyable de données* grâce à
+  la bio-informatique.
+
+  Pour répondre à cette question, j'ai décidé de l'aborder sous
+  différents angles:
+
+  - bullet points
 
 
-Pour répondre à cette question, j'ai décidé de l'aborder sous
-différents angles:
-
-- Qu'est-ce que la bioinformatique?
-- Qui fait de la bio-informatique?
-- Où enseigne-t-on la bio-informatique?
-- Quelques exemples d'algorithmes utilisés en bio-informatique.
-- ... et quelques illustrations.
-
+* Notes
 
 What is bioinformatics? Who does bioinformatics?
 
@@ -31,10 +30,14 @@ What is bioinformatics? Who does bioinformatics?
     depuis sept 2018
   - 2010 - 2018: chercher en bioinformatique à l'Univeristé de
     Cambridge, UK
+  - 2004 - 2009 (?): licence en informatique à horaire décalé à
+    l'UNamur (FUNDP)
   - 2006 - 2009: Bio-informaticien et gestionnaire de projet dans le
     privé.
   - 2000 - 2006: Thèse de doctorat au département de biologie et
-    médecine moléculaire de l'ULB.
+    médecine moléculaire de l'ULB. C'est la génération de données
+    génomiques (donc du séquencage d'ADN) qui m'a mené à devoir me
+    spécialiser en informatique pour gérer et analyser mes données.
   - 1996 - 2000: Licence en Biologie à l'ULB
 
   In the lab:
@@ -61,7 +64,8 @@ What is bioinformatics? Who does bioinformatics?
   Central dogma
 
   - transmission de l'information moĺéculaire
-  - nous avons les outils pour mesurer les molécules à chaque niveau moléculaire
+  - nous avons les outils pour mesurer les molécules à chaque niveau
+    moléculaire
 
   Illustration: les légos
 
@@ -75,3 +79,11 @@ What is bioinformatics? Who does bioinformatics?
   Schématiquement et quelques notions d'apprentissage automatique
 
   Applications
+
+* Final slides
+
+  J'espère avoir pu vous donner de ce qu'est la bio-informatique et
+  surtout vous convaincre que de nos jours, il est inconcevable
+  d'imaginer une recherche de pointe en médecine sans la
+  bio-informatique. Et s'il vous reste des questions, c'est le moment,
+  je vous en prie.
