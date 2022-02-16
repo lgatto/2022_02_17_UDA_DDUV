@@ -14,15 +14,82 @@
   savoir *faire du sens avec un nombre incroyable de données* grâce à
   la bio-informatique.
 
+  Mon but, pour aujourd'hui, est donc qu'à la fin de cette leçon, vous
+  ayez un idée assez claire de ce qu'est la bio-informatique.
+
+* Qu'est-ce que la bio-informatique?
+
   Pour répondre à cette question, j'ai décidé de l'aborder sous
   différents angles:
 
   - bullet points
 
 
-* What is bioinformatics? Who does bioinformatics?
+  Le temps nous étant compté, il me sera impossible de dresser un
+  portrait exhaustif de ce qu'est la bio-informatique. Et je ne
+  voudrais surtout pas vous donner une image simpliste et monotone de
+  la bio-informatique et des challenges auxquel elle se doit de faire
+  face. En effet, la bio-informatique est tout aussi variée que ne
+  l'est la biologie, ou même les sciences bio-médicales de nos
+  jours. C'est donc par ces différents angles (quoi, où, comment, ...)
+  que j'aimerais présenter un profil varié de cette discipline et de
+  ceux qui la pratique.
 
-  Who
+* Pourquoi la bio-informatique?
+
+  Il est bon de commencer un exposé par des motivations. Tout est dans
+  le titre, bien évidemment:
+
+  Comment faire du sens avec un nombre incroyable de données
+
+  Je vais donc commencer par vous présenter un partie de ces données
+  dont il faut faire sense. Et je vais faire cela en me basant sur ce
+  que l'on appelle parfois le dogme de la biologie moléculaire, qui
+  représent le flux (ou du moins un flux) de l'information biologique.
+
+  Mais avant cela, quelques petits rappels de biologie cellulaire. Une
+  cellule, l'unité du vivant, est composée d'une membrane plasmique
+  qui définit un contenu cellulaire, i.e. l'intérieur de la cellule,
+  de son extérieur. L'intérieur d'une cellule est elle-même composée
+  sous niches ou régions sous-cellulaire, appellées organelles. Ces
+  organelles on des fonctions bien définies. Nous avons par exemple
+  les mitochondries, les moteurs cellulaires qui produisent de
+  l'énergies; l'appareil de Golgi, pour le transport et la maturation
+  de protéines; toute sorte de vésicules pour le transport,
+  l'externalisation et l'internalisation de composés ou toxines; ou
+  encore le noyau, qui contient l'ADN, les plans de construction des
+  cellules.
+
+  Lorsque les cellules si divisent (lors du dévelopement d'un embyron,
+  ou lors le renouvellement des nos cellules ou alors le dévelopement
+  de cancers) l'ADN est copié et partagé entre les cellules filles, de
+  telle manière qu'elles disposent de même patrimoine génétique en fin
+  de division. (Aux mutation près, bien évidemment - et le Prof
+  Vikkula vous en parlera sûrement lors de son exposé).
+
+  Et comment est-ce que c'est ADN est copie me demanderez vous? Grâce
+  à des protéines spécifique, des unités fonctionnelles qui sont
+  dédiées à la copie d'ADN.
+
+  Et comment est-ce que ces protéines sont-elles produites? Grâce aux
+  plans de constructions contenu dans l'ADN. On ne passe néanmoins pas
+  directement du plan ADN vers l'unité fonctionelle protéine
+  directement, on passe par un intermédiaire, l'ARN. L'ARN est
+  transcrit (c'est le terme technique) à partir de l'ADN, ces
+  molécules d'ARN sont ensuite transportées en dehors du noyau pour
+  être ensuite traduite (c'est encore une fois le terme technique) en
+  protéines au niveau d'une autre niche sous-celluaire, à savoir les
+  ribosomes.
+
+  Le flux d'information représenté ici passe donc par l'ADN (qui peut
+  être copié), vers de l'ARN, et finalement vers les protéines. Il
+  existe des voies non-canonique de rétrotranscriptions (Prof Thomas
+  Michiels vous en parlera probablement) ou voir même la copie d'ARN.
+
+* Technologies omiques
+
+* Who does bioinformatics?
+
   - Prof en bioinfo à l'UCLouvain et directeur du laboratoire de
     Biologie Computationelle et Bio-informatiqe à l'institut de Duve
     depuis sept 2018
