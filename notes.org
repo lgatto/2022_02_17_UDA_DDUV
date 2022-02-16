@@ -86,6 +86,11 @@
   existe des voies non-canonique de rétrotranscriptions (Prof Thomas
   Michiels vous en parlera probablement) ou voir même la copie d'ARN.
 
+  Une autre dimension, qui n'est pas reprise ici représente les
+  métabolites, les petites molécules chimiques qui entrent en jeux
+  dans toutes les réactions bio-chimiques qui sont exécutées en
+  permanence dans nos cellules.
+
 * Technologies omiques
 
 * Who does bioinformatics?
@@ -115,14 +120,8 @@
     (UCLouvain), thèse DDUV
 
   Cette diversité est représentative de celle de la richesse des
-  données (notamment omiques) et besoins en bio-informatique en
+  données (notamment omiques) et des besoins en bio-informatique en
   sciences bio-médicales.
-
-* Central dogma
-
-- Central dogma and information flow
-- transmission de l'information moĺéculaire
-- also mention metabolites
 
 * Notes
 

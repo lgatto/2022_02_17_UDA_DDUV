@@ -102,11 +102,8 @@ niveau biologique
 
 ]
 
-
 ---
 class: middle
-
-
 
 .pull-left[
 
