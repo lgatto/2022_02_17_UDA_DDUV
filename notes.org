@@ -51,6 +51,12 @@
   données (notamment omiques) et besoins en bio-informatique en
   sciences bio-médicales.
 
+* Central dogma
+
+- Central dogma and information flow
+- transmission de l'information moĺéculaire
+- also mention metabolites
+
 * Notes
 
   Anectodes
