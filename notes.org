@@ -98,3 +98,11 @@
   d'imaginer une recherche de pointe en médecine sans la
   bio-informatique. Et s'il vous reste des questions, c'est le moment,
   je vous en prie.
+
+* Planning
+
+- 5 minutes d'introduction
+- ~ 1h15 de cours en n'oubliant pas d'être trèèès pédagogique. C'est
+  une bonne idée de parler de ce que vous faites dans les dernières
+  ~15 minutes.
+- 20 minutes de discussion
