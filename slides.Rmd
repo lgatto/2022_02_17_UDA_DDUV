@@ -86,7 +86,7 @@ class: middle
 
 Nous avons les outils technologiques pour mesurer les molécules chaque
 niveau biologique
-- ADN/Génome (1e9 de paires de bases, 20000 gènes) -> **génomique**
+- ADN/Génome (3e9 de paires de bases, 20000 gènes) -> **génomique**
 - ARN/Transciption (50000 transcrits) -> **transcriptomique**
 - Protéines/protéome (1e6 protéoformes) -> **protéomique**
 - Métabolites/métabolome (1e5 métabolites) -> **métabolomique**
@@ -345,13 +345,12 @@ class: middle
 
 ## Quels sont les échantillons qui se ressemblent le plus?
 
-
-|      |     noir|     jaune|     mauve|      bleu|
-|:-----|--------:|---------:|---------:|---------:|
-|noir  |   0.0000| 124.16924| 125.71794| 123.53542|
-|jaune | 124.1692|   0.00000|  35.08561|  32.96968|
-|mauve | 125.7179|  35.08561|   0.00000|   4.00000|
-|bleu  | 123.5354|  32.96968|   4.00000|   0.00000|
+|      |  noir| jaune| mauve|  bleu|
+|:-----|-----:|-----:|-----:|-----:|
+|noir  |   0.0| 124.2| 125.7| 123.5|
+|jaune | 124.2|   0.0|  35.1|  33.0|
+|mauve | 125.7|  35.1|   0.0|   4.0|
+|bleu  | 123.5|  33.0|   4.0|   0.0|
 
 ]
 
@@ -369,13 +368,12 @@ class: middle
 
 ## Quels sont les échantillons qui se ressemblent le plus?
 
-|      |     noir|     jaune|     mauve|      bleu|
-|:-----|--------:|---------:|---------:|---------:|
-|noir  |   0.0000| 124.16924| 125.71794| 123.53542|
-|jaune | 124.1692|   0.00000|  35.08561|  32.96968|
-|mauve | 125.7179|  35.08561|   0.00000|   4.00000|
-|bleu  | 123.5354|  32.96968|   4.00000|   0.00000|
-
+|      |  noir| jaune| mauve|  bleu|
+|:-----|-----:|-----:|-----:|-----:|
+|noir  |   0.0| 124.2| 125.7| 123.5|
+|jaune | 124.2|   0.0|  35.1|  33.0|
+|mauve | 125.7|  35.1|   0.0|   4.0|
+|bleu  | 123.5|  33.0|   4.0|   0.0|
 
 ]
 
@@ -402,6 +400,111 @@ class:middle, center, inverse
 ## Algo 3 - classification
 
 ---
+class:middle
+
+.pull-left[
+
+![data](figs/data2.png)
+
+]
+
+.pull-right[
+
+## Nous analysons on nouvel échantillon.
+
+]
+
+---
+class:middle
+
+.pull-left[
+
+![data](figs/data2.png)
+
+]
+
+.pull-right[
+
+![new data](figs/data_new.png)
+
+]
+
+
+---
+class:middle
+
+.pull-left[
+
+<img src="figs/data2.png" width="350">
+<img src="figs/data_new.png" width="145">
+
+]
+
+.pull-right[
+
+## Est-ce que celui-ci est un *jaune*, un *vert*, un *noir* ou un *bleu*?
+
+]
+
+---
+class:middle
+
+.pull-left[
+
+<img src="figs/data2.png" width="350">
+<img src="figs/data_new.png" width="145">
+
+]
+
+.pull-right[
+
+## Est-ce que celui-ci est un *jaune*, un *vert*, un *noir* ou un *blue*?
+
+## Méthode des/du plus proche voisin(s): *k-NN*
+
+]
+
+---
+class:middle
+
+.pull-left[
+
+<img src="figs/data2.png" width="350">
+<img src="figs/data_new.png" width="145">
+
+]
+
+.pull-right[
+
+## Méthode des/du plus proche voisin(s): *k-NN*
+
+|        |  noir| jaune| mauve|  bleu| nouveau|
+|:-------|-----:|-----:|-----:|-----:|-------:|
+|noir    |   0.0| 124.2| 125.7| 123.5|   124.0|
+|jaune   | 124.2|   0.0|  35.1|  33.0|     8.7|
+|mauve   | 125.7|  35.1|   0.0|   4.0|    32.0|
+|bleu    | 123.5|  33.0|   4.0|   0.0|    30.3|
+|nouveau | 124.0|   8.7|  32.0|  30.3|     0.0|
+
+]
+
+---
+class: middle
+
+.pull-left[
+
+Vérification avec une APC
+![pca new](figs/pca_new.png)
+
+
+]
+
+.pull-right[
+
+Vérification avec du clustering
+![hc new](figs/hc_new.png)
+
+]
 
 ---
 class: middle, center, inverse
@@ -428,13 +531,6 @@ class: center, middle
 class: center, middle
 
 ## Réduction de dimensions
-
-<img src="./figs/spatprot-pca.png" width="500">
-
----
-class: center, middle
-
-## Clustering
 
 <img src="./figs/spatprot-pca.png" width="500">
 
