@@ -6,11 +6,4 @@ all:
 	Rscript -e "rmarkdown::render('$^', output_format = 'xaringan::moon_reader')"
 
 web:
-	cp slides.html ./docs/index.html
-	cp xaringan-themer.css ./docs/.
-	cp -r slides_files ./docs/.
-	cp -r figs ./docs/.
-
-clean:
-	rm *.html xaringan-themer.css
-	rm -r *_files
+	mv slides.html index.html
