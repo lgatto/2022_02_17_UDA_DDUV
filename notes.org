@@ -1,13 +1,13 @@
 * Intro
 
-  Quand on me demande ce que je fais et que je réponds de la
-  bio-informatique, je précise toujours (et c'est devenu un réflexe)
-  que c'est de l'informatique appliquée à de la biologie, y compris la
-  médecine. Et je dois vous avouer que ce n'est pas avec grande
-  conviction, car je ne m'attends pas que cette définition soit des
-  plus instructive... mais elle a le mérite d'être courte. Si vraiment
-  la personne qui la pose est intéressée, il y a bien évidemment
-  matière à élaborer.
+  Quand on me demande ce que je fais dans la vie professionnelle et
+  que je réponds de la bio-informatique, je précise toujours (et c'est
+  devenu un réflexe) que c'est de l'informatique appliquée aux
+  sciences bio-médicales. Et je dois vous avouer que ce n'est pas avec
+  grande conviction, car je suis bien conscient que cette définition
+  soit des plus instructive... mais elle a le mérite d'être courte. Si
+  vraiment la personne qui la pose est intéressée, il y a bien
+  évidemment matière à élaborer.
 
   Pour vous, par contre, je me suis coupé en quatres car je suis parti
   du principe que si vous êtes là, ce que vous voulez, en effet,
@@ -24,16 +24,15 @@
 
   - bullet points
 
-
   Le temps nous étant compté, il me sera impossible de dresser un
   portrait exhaustif de ce qu'est la bio-informatique. Et je ne
   voudrais surtout pas vous donner une image simpliste et monotone de
-  la bio-informatique et des challenges auxquel elle se doit de faire
+  la bio-informatique et des challenges auxquel elle doit de faire
   face. En effet, la bio-informatique est tout aussi variée que ne
-  l'est la biologie, ou même les sciences bio-médicales de nos
-  jours. C'est donc par ces différents angles (quoi, où, comment, ...)
-  que j'aimerais présenter un profil varié de cette discipline et de
-  ceux qui la pratique.
+  l'est la biologie, ou même les sciences bio-médicales. C'est donc
+  par ces différents angles (quoi, où, comment, ...)  que j'aimerais
+  présenter un profil varié de cette discipline et de ceux qui la
+  pratique.
 
 * Pourquoi la bio-informatique?
 
@@ -52,7 +51,7 @@
   qui définit un contenu cellulaire, i.e. l'intérieur de la cellule,
   de son extérieur. L'intérieur d'une cellule est elle-même composée
   sous niches ou régions sous-cellulaire, appellées organelles. Ces
-  organelles on des fonctions bien définies. Nous avons par exemple
+  organelles ont des fonctions bien définies. Nous avons par exemple
   les mitochondries, les moteurs cellulaires qui produisent de
   l'énergies; l'appareil de Golgi, pour le transport et la maturation
   de protéines; toute sorte de vésicules pour le transport,
@@ -63,35 +62,37 @@
   Lorsque les cellules si divisent (lors du dévelopement d'un embyron,
   ou lors le renouvellement des nos cellules ou alors le dévelopement
   de cancers) l'ADN est copié et partagé entre les cellules filles, de
-  telle manière qu'elles disposent de même patrimoine génétique en fin
-  de division. (Aux mutation près, bien évidemment - et le Prof
+  telle manière à ce qu'elles disposent de même patrimoine génétique
+  en fin de division. (Aux mutation près, bien évidemment - et le Prof
   Vikkula vous en parlera sûrement lors de son exposé).
 
-  Et comment est-ce que c'est ADN est copie me demanderez vous? Grâce
-  à des protéines spécifique, des unités fonctionnelles qui sont
+  Et comment est-ce que c'est ADN est copié me demanderez vous? Grâce
+  à des protéines spécifique, des unités fonctionnelles, qui sont
   dédiées à la copie d'ADN.
 
   Et comment est-ce que ces protéines sont-elles produites? Grâce aux
   plans de constructions contenu dans l'ADN. On ne passe néanmoins pas
-  directement du plan ADN vers l'unité fonctionelle protéine
-  directement, on passe par un intermédiaire, l'ARN. L'ARN est
-  transcrit (c'est le terme technique) à partir de l'ADN, ces
-  molécules d'ARN sont ensuite transportées en dehors du noyau pour
-  être ensuite traduite (c'est encore une fois le terme technique) en
-  protéines au niveau d'une autre niche sous-celluaire, à savoir les
-  ribosomes.
+  directement du plan ADN vers l'unité fonctionelle protéine, on passe
+  par un intermédiaire, l'ARN. L'ARN est transcrit dans le noyau
+  (c'est le terme technique) à partir de l'ADN. Les molécules d'ARN
+  sont ensuite transportées en dehors du noyau pour être ensuite
+  traduite (c'est encore une fois le terme technique) en protéines au
+  niveau d'une autre niche sous-celluaire, à savoir les ribosomes.
 
   Le flux d'information représenté ici passe donc par l'ADN (qui peut
   être copié), vers de l'ARN, et finalement vers les protéines. Il
   existe des voies non-canonique de rétrotranscriptions (Prof Thomas
-  Michiels vous en parlera probablement) ou voir même la copie d'ARN.
+  Michiels vous en parlera probablement lors de sa leçon sur les
+  virus) ou voir même la copie d'ARN.
 
-  Une autre dimension, qui n'est pas reprise ici représente les
-  métabolites, les petites molécules chimiques qui entrent en jeux
+  Une autre dimension, qui n'est pas reprise ici est représentée par
+  les métabolites, les petites molécules chimiques qui entrent en jeux
   dans toutes les réactions bio-chimiques qui sont exécutées en
   permanence dans nos cellules.
 
 * Technologies omiques
+
+  Ne pas utiliser les algorithmes comme des boîtes noires!
 
 * Who does bioinformatics?
 
@@ -100,70 +101,84 @@
     depuis sept 2018
   - 2010 - 2018: chercher en bioinformatique à l'Univeristé de
     Cambridge, UK
-  - 2004 - 2009 (?): licence en informatique à horaire décalé à
-    l'UNamur (FUNDP)
   - 2006 - 2009: Bio-informaticien et gestionnaire de projet dans le
     privé.
   - 2000 - 2006: Thèse de doctorat en biologie évolutive au
     département de biologie et médecine moléculaire de l'ULB. C'est la
     génération de données génomiques (donc du séquencage d'ADN) qui
-    m'a mené à devoir me spécialiser en informatique pour gérer et
-    analyser mes données.
+    m'a mené à devoir me spécialiser en (bio)informatique pour gérer
+    et analyser mes données.
   - 1996 - 2000: Licence en Biologie à l'ULB
 
   In the lab:
   - LG: bio, these biologie évolutive, licence INFO,
-  - AL: bioingénieur, these DDUV, bio-info
-  - MM: bioingénieur, stat, these STAT, bio-info
-  - CV: SBIM (UCLouvain), Bioinfo (KULeuve), these DDUV
-  - PH: ingénieur (Mons), 20 ans en finances quantitatives, MS Stat
-    (UCLouvain), thèse DDUV
+  - AL: bioingénieur à l'UCLouvain , thèse DDUV en épigénétique (un
+    sujet dont vous parler la Prof Anabelle Decottigines), bio-info
+  - MM: l'UCLouvain bioingénieur, MS et thèse en statistiques,
+    bio-info
+  - CV: MS SBIM (UCLouvain), MS Bioinfo (KULeuven), these DDUV
+  - PH: ingénieur (Mons), 20 ans en finances quantitatives, MS
+    statistiques (UCLouvain), thèse DDUV
 
-  Cette diversité est représentative de celle de la richesse des
-  données (notamment omiques) et des besoins en bio-informatique en
-  sciences bio-médicales.
+  Cette diversité est représentative de la richesse des données
+  (notamment omiques) et des besoins en bio-informatique en sciences
+  bio-médicales.
 
-* Notes
+* Study bioinformatics
 
-  Anectodes
+- Faculté de pharmacie et sciences bio-médicales (FASB, Woluwé)
+- Ecole Polytechnique de Louvain (EPL, LLN)
+- Ecole de biologie (LLN)
+- Ecole de Statistique, Biostatistique et Sciences Actuarielles (LSBA,
+  LLN)
+
+* Anectode
 
   - bio + info or info + bio
-  - licence info à horaire décalé en info
+  - 2004 - 2009 (?): licence en informatique à horaire décalé à
+    l'UNamur (FUNDP)
 
-  Where is bioinformatics taught?
+* Comprendre la biologie à partir de données
 
-  - SBIM
-  - EPL
-  - Stat/data science
+  - A gauche, la biolgie.
+  - A droite, les données.
 
-  Qu'est-ce que la bio-informatique
+  Nouveau pathogène: insecte parasite; un virus (leçon du Prof Thomas
+  Michiels); une bactérie resistance aux antibiotiques (leçon du Prof
+  Jean-François Collet); ou alors un cancer (leçon du Prof
+  Jean-Baptiste Demoulin); ...
 
-  Central dogma
+  Dans la réalité complexe qu'en la biologie, il nous faut des
+  algorithmes pour faire sens de ces données qui sont à la fois de
+  grande taille, mais surtour d'une grande complexité.
 
-  - transmission de l'information moĺéculaire
-  - nous avons les outils pour mesurer les molécules à chaque niveau
-    moléculaire
+* Les données
 
-  Illustration: les légos
+  - Les détails de la construction de cette matrice quantitative
+    dépendra de la technolgie omique utilisée.
 
-  Pourquoi est-ce si important?
-  - réassembler les données et *comprendre* certaines facettes de la
-    biologie sous-jacente
-  - l'utilisation d'algorithmes dans les prises de décisions, par
-    exemple dans la détection de tumeurs (voir aussi 'Les algorithmes
-    font-ils la loi?)
+  - Qu'allons-nous pouvoir faire avec ces données? Toujours, bien
+    évidemment, dans le but d'étudier la biologie sous-jacente,
+    d'inférer et de comprendre ce qu'il se passe. **Mieux compredre
+    pour mieux guérir.**
 
-  Schématiquement et quelques notions d'apprentissage automatique
+* Les algorithmes
 
-  Applications
+  J'ai choisit de vous présenter 3 algorithmes.
+
+  - PCA
+  - Clustering: given some time to find the closest ones.
+  - Classificaton: given some time to find the class.
 
 * Final slides
 
-  J'espère avoir pu vous donner de ce qu'est la bio-informatique et
-  surtout vous convaincre que de nos jours, il est inconcevable
-  d'imaginer une recherche de pointe en médecine sans la
-  bio-informatique. Et s'il vous reste des questions, c'est le moment,
-  je vous en prie.
+  J'espère avoir pu vous donner une bonne idée de ce qu'est la
+  bio-informatique et surtout de vous avoir convaincu que de nos
+  jours, il est inconcevable d'imaginer une recherche de pointe en
+  médecine sans la bio-informatique.
+
+  Et s'il vous reste des questions, je me ferai un plasir d'y
+  répondre.
 
 * Planning
 
