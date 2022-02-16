@@ -113,7 +113,7 @@ class: middle, center, inverse
 ---
 class: middle
 
-- Faculté de pharmacie et sciences biomédicales
+- Faculté de pharmacie et sciences bio-médicales
 - Faculté des sciences
 - Ecole Polytechnique de Louvain
 - Ecole de statistique (statistques et sciences des données)
@@ -121,7 +121,7 @@ class: middle
 ---
 class: middle, center, inverse
 
-## bio + info ou info + bio ?
+# bio + info ou info + bio ?
 
 ---
 class: middle, center, inverse

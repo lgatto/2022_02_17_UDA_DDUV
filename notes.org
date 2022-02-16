@@ -20,9 +20,7 @@
   - bullet points
 
 
-* Notes
-
-What is bioinformatics? Who does bioinformatics?
+* What is bioinformatics? Who does bioinformatics?
 
   Who
   - Prof en bioinfo à l'UCLouvain et directeur du laboratoire de
@@ -34,19 +32,26 @@ What is bioinformatics? Who does bioinformatics?
     l'UNamur (FUNDP)
   - 2006 - 2009: Bio-informaticien et gestionnaire de projet dans le
     privé.
-  - 2000 - 2006: Thèse de doctorat au département de biologie et
-    médecine moléculaire de l'ULB. C'est la génération de données
-    génomiques (donc du séquencage d'ADN) qui m'a mené à devoir me
-    spécialiser en informatique pour gérer et analyser mes données.
+  - 2000 - 2006: Thèse de doctorat en biologie évolutive au
+    département de biologie et médecine moléculaire de l'ULB. C'est la
+    génération de données génomiques (donc du séquencage d'ADN) qui
+    m'a mené à devoir me spécialiser en informatique pour gérer et
+    analyser mes données.
   - 1996 - 2000: Licence en Biologie à l'ULB
 
   In the lab:
-  - LG: bio, these évolution, licence INFO,
+  - LG: bio, these biologie évolutive, licence INFO,
   - AL: bioingénieur, these DDUV, bio-info
   - MM: bioingénieur, stat, these STAT, bio-info
   - CV: SBIM (UCLouvain), Bioinfo (KULeuve), these DDUV
   - PH: ingénieur (Mons), 20 ans en finances quantitatives, MS Stat
     (UCLouvain), thèse DDUV
+
+  Cette diversité est représentative de celle de la richesse des
+  données (notamment omiques) et besoins en bio-informatique en
+  sciences bio-médicales.
+
+* Notes
 
   Anectodes
 
